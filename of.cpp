@@ -3,13 +3,14 @@
 //					
 // @file	of.cpp
 // @author Luis M. Jiménez
+// @email: luis.jimenez@umh.es
 // @date 2021
 //
 // @brief Course: Computer Vision (1782)
 // Dpo. of Systems Engineering and Automation
 // Automation, Robotics and Computer Vision Lab (ARVC)
 // http://arvc.umh.es
-// University Miguel Hernández
+// Miguel Hernández University www.umh.es
 //
 // @note Description: 
 //	- Shows the calculation of optical Flow. Algorithms:
